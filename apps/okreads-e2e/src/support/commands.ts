@@ -14,7 +14,7 @@ declare global {
 
 export function startAt(url) {
   cy.visit(url);
-  cy.get('tmo-root').should('contain.text', 'okreads');
+  cy.get('tmo-root').should('contain.text', 'Okreads');
 }
 
 Cypress.Commands.add('startAt', startAt);
