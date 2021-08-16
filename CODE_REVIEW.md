@@ -14,5 +14,5 @@ Accessibility
     - For Button Search Accessibility is fixed and its 97%.
 
 Note:-
-    - For search debounce for 500ms is added.
+    - For search debounce for 500ms is added in books api.
     - Spinner is added for search field.
